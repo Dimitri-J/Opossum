@@ -17,7 +17,7 @@ from sklearn import preprocessing
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.model_selection import train_test_split
 
-#
+# Test
 
 # Charge le modèle enregistré et test à partir du fichier chargé
 import cloudpickle as cp
